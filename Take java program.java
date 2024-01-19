@@ -4,5 +4,7 @@ public class java
     {
       Ssystem.out.println("Done");      
     }
-    
+    public void method(){
+
+    }
     
